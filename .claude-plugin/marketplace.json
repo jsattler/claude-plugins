@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "intervals-cycling-coach",
-      "source": "./plugins/intervals-cycling-coach",
+      "source": "./intervals-cycling-coach",
       "description": "Your personal cycling coach using data from intervals.icu."
     }
   ]
