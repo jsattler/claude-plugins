@@ -21,7 +21,7 @@ This plugin turns Claude into your personal cycling coach. It connects to your I
 
 ### Prerequisites
 
-This plugin requires the **Intervals.icu MCP server** to be installed and configured separately. Make sure it is connected and working before using the plugin commands.
+This plugin requires the **[Intervals.icu MCP server](https://github.com/mvilanova/intervals-mcp-server)** to be installed and configured separately. Follow the install instructions in the linked repository to set up the MCP server with your Intervals.icu API key and athlete ID. Make sure it is connected and working before using the plugin commands.
 
 ### Get started
 
