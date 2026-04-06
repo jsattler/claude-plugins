@@ -1,0 +1,13 @@
+{
+  "name": "jsattler-marketplace",
+  "owner": {
+    "name": "Joshua Sattler"
+  },
+  "plugins": [
+    {
+      "name": "intervals-cycling-coach",
+      "source": "./plugins/intervals-cycling-coach",
+      "description": "Your personal cycling coach using data from intervals.icu."
+    }
+  ]
+}
